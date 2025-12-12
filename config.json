@@ -1,0 +1,12 @@
+{
+  "puntos": {
+    "par": 1,
+    "doblePar": 1,
+    "tercia": 2,
+    "full": 3,
+    "poker": 4,
+    "quintilla": 5,
+    "sextilla": 6,
+    "escalera": 7
+  }
+}
